@@ -1,0 +1,163 @@
+body {
+    font-family: 'Archivo', sans-serif;
+}
+
+
+nav {
+    background-color: #FE6C3B;
+    color: #F5EDE2;
+    text-align: right;
+}
+
+nav .nav-link {
+    color: #F5EDE2;
+}
+
+nav .btn {
+    background-color: #F5EDE2;
+    color: black;
+}
+
+.btn:hover {
+    background-color: black;
+    color: #F5EDE2;
+}
+
+.btn {
+    background-color: #F5EDE2;
+    color: black;
+}
+
+#modal-registro {
+    background-color: #ccdcf6;
+}
+
+.form-text {
+    font-family: 'Cormorant Garamond', serif;
+}
+
+#modal-carousel {
+    background-color: #ccdcf6;
+}
+
+.modal-title {
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: bolder;
+}
+
+h1,
+h5 {
+    font-weight: bold;
+}
+
+.img-card {
+    height: 365px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: larger;
+}
+
+.card-text-small {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.card-body-1 {
+    background-color: #ccdcf6;
+}
+
+.card-body-2 {
+    background-color: #FE6C3B;
+}
+
+.card-body-3 {
+    background-color: #F5EDE2;
+}
+
+#modal-biografia {
+    background-color: #ccdcf6;
+}
+
+#button-2 {
+    background-color: #ccdcf6;
+    color: black;
+}
+
+#button-2:hover {
+    background-color: black;
+    color: #F5EDE2;
+}
+
+#button-3 {
+    background-color: #FE6C3B;
+    color: #F5EDE2;
+}
+
+#button-3:hover {
+    background-color: black;
+    color: #F5EDE2;
+}
+
+.accordion-body {
+    background-color: #F5EDE2;
+}
+
+.title-agenda {
+    font-size: x-large;
+}
+
+.text-agenda {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+.subtext-agenda {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: medium;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.list-group-horizontal {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-flow: row wrap;
+}
+
+#accordion-button1 {
+    background-color: #ccdcf6;
+    font-size: 25px;
+}
+
+#accordion-button2 {
+    background-color: #FE6C3B;
+    font-size: 25px;
+}
+
+#accordion-button3 {
+    background-color: #F5EDE2;
+    font-size: 25px;
+}
+
+#accordion-item {
+    background-color: #F5EDE2;
+}
+
+footer {
+    background-color: #ccdcf6;
+}
+
+#direccion {
+    color: black;
+}
